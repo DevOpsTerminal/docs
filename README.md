@@ -5,7 +5,11 @@ Documentation | DevOpsTerminal
 ## Co to jest
 
 
-## Inspiracja
+
+### My Idea, an Inspiration
+- This is what i expect from the tools, when i'am working on difficult project
+If i can compare, for Human is enogh to see 360 deggre around, for DevOpsTool is good to see all details if you need and all information about all server connetctions, and the solutions depends of projects.
+
 
 ### Limitless Pill Scene
 https://www.youtube.com/watch?v=xP-ZwmCPBAs
@@ -14,8 +18,6 @@ https://www.youtube.com/watch?v=xP-ZwmCPBAs
 "I wasn't high, wasn't wired --just clear. What I needed to do. And how to do it."
 https://www.imsdb.com/scripts/Limitless.html
 
-### My Opinion
-- This is what i expect from the tools, when i'am working on difficult project
 
 ## Funkcjonalnosci
 
