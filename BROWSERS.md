@@ -1,4 +1,4 @@
-DevOpsTerminal is supported by:
+# DevOpsTerminal is supported by:
 
 ### <img src="https://www.hackersmacker.org/images/safari.png" width="32"> Safari client
 
