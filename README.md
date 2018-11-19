@@ -1,4 +1,4 @@
-# docs
+# :cloud: Documentation | DevOpsTerminal
 Documentation | DevOpsTerminal
 
 
