@@ -1,0 +1,62 @@
+
+### Command-line apps
+
+- [np](https://github.com/sindresorhus/np) - Better `npm publish`.
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
+- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
+- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files.
+- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+- [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+- [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
+- [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
+- [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
+- [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+- [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
+- [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+- [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
+- [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
+- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+- [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
+- [torrent](https://github.com/maxogden/torrent) - Download torrents.
+- [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
+- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
+- [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
+- [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+- [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
+- [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
+- [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
+- [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+- [Cash](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
+- [trymodule](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+- [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+- [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+- [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+- [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
+- [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
