@@ -1,4 +1,3 @@
-
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
@@ -132,3 +131,64 @@
 - [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+
+### Network
+
+- [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
+- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
+- [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
+- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+
+
+### Database
+
+- Drivers
+	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
+	- [Redis](https://github.com/luin/ioredis) - Redis client.
+	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
+	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
+	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
+	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
+	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+- ODM / ORM
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
+	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
+	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
+	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
+- Query builder
+	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- Other
+	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
+	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
+	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+  
+  
+  ### Email
+
+- [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
+- [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+- [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
+
+### Natural language processing
+
+- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [franc](https://github.com/wooorm/franc) - Detect the language of text.
+- [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [natural](https://github.com/NaturalNode/natural) - Natural language facility.
+
+### Automation
+
+- [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
+
+
+
