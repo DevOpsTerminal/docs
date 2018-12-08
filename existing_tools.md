@@ -60,3 +60,75 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+
+
+
+
+### Command-line utilities
+
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right.
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
+- [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
+- [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+- [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+- [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal.
+- [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal.
+- [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+- [cli-truncate](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
+- [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
+- [blessed](https://github.com/chjj/blessed) - Curses-like library.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
+- [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
+- [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+- [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
+- [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
+- [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar.
+- [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+- [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+- [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
+- [cli-columns](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+- [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+- [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+- [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
+- [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
+- [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+- [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines `▁▂▃▅▂▇`.
+- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+- [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
+- [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+
+
+### Build tools
+
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
+- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- [gulp](http://gulpjs.com) - Streaming and fast build system that favors code over config.
+- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
+- [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
+- [Start](https://github.com/deepsweet/start) - Functional task runner with shareable presets.
+- [ygor](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much.
+- [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
+
+
+### Humanize
+
+- [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
+- [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
+- [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
