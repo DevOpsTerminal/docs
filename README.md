@@ -1,3 +1,7 @@
+# example docs
+https://github.com/pyeve/eve/tree/master/docs
+
+
 # :cloud: Documentation | DevOpsTerminal
 Documentation | DevOpsTerminal
 
