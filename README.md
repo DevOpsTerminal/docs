@@ -1,13 +1,18 @@
-# example docs
-https://github.com/pyeve/eve/tree/master/docs
-
-
 # :cloud: Documentation | DevOpsTerminal
-Documentation | DevOpsTerminal
+
+
++ [Github Repositories](https://github.com/DevOpsTerminal/)
++ [Blog of DevOpsTerminal](https://blog.devopsterminal.com/)
++ [Documentation of DevOpsTerminal](https://docs.devopsterminal.com/)
++ [Example of devopsterminal online app](https://app.devopsterminal.com/)
 
 
 ## Co to jest
 
+# TODO
+
+### example docs
+https://github.com/pyeve/eve/tree/master/docs
 
 
 ### My Idea, an Inspiration
