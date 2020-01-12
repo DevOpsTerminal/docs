@@ -1,5 +1,6 @@
 # :cloud: Documentation | DevOpsTerminal
 
+![devopsterminal.png](devopsterminal.png)
 
 + [Github Repositories](https://github.com/DevOpsTerminal/)
 + [Blog of DevOpsTerminal](https://blog.devopsterminal.com/)
