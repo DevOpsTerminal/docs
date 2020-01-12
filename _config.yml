@@ -1,1 +1,10 @@
 theme: jekyll-theme-leap-day
+gems:
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+title: DevOpsTerminal documentation
+description: Web Intarface for Command Line with automatisation
+show_downloads: true
