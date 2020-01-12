@@ -1,4 +1,4 @@
-# DevOpsTerminal Documentation :cloud:
+# DevOpsTerminal documentation
 
 ![devopsterminal.png](devops_terminal-cube-green-128.png)
 
