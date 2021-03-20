@@ -8,7 +8,7 @@
 + [Example of devopsterminal online app](https://app.devopsterminal.com/)
 
 # Terminals
-
+Porównanie różnych terminali
 [10 Best Linux Terminal Emulators With Extra Features [2021]](https://itsfoss.com/linux-terminal-emulators/)
 
 
@@ -34,15 +34,6 @@ https://www.imsdb.com/scripts/Limitless.html
 
 
 ## Funkcjonalnosci
-
-
-
-## Porownanie roiznych produuktow
-
-
-
-
-## Podobne produkty
 
 
 
