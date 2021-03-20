@@ -45,7 +45,4 @@ https://www.imsdb.com/scripts/Limitless.html
 
 ### Payments
 
-accounts:
-- patronite
-- paypal
-- ..
+https://donate.softreck.dev/
