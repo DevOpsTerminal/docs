@@ -7,6 +7,10 @@
 + [Documentation of DevOpsTerminal](https://docs.devopsterminal.com/)
 + [Example of devopsterminal online app](https://app.devopsterminal.com/)
 
+# Terminals
+
+[10 Best Linux Terminal Emulators With Extra Features [2021]](https://itsfoss.com/linux-terminal-emulators/)
+
 
 ## Co to jest
 
